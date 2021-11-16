@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathOperations", "MathOperations\MathOperations.csproj", "{F859C95B-7F00-485E-BAEB-B92B2377BFD9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Animals", "Animals\Animals.csproj", "{0ED24853-9573-40E4-8710-8C40D0677CDF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shapes", "Shapes\Shapes.csproj", "{69B1B18D-99C0-4187-97C2-3F9FC6CAADD5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F859C95B-7F00-485E-BAEB-B92B2377BFD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F859C95B-7F00-485E-BAEB-B92B2377BFD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F859C95B-7F00-485E-BAEB-B92B2377BFD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F859C95B-7F00-485E-BAEB-B92B2377BFD9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0ED24853-9573-40E4-8710-8C40D0677CDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0ED24853-9573-40E4-8710-8C40D0677CDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0ED24853-9573-40E4-8710-8C40D0677CDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0ED24853-9573-40E4-8710-8C40D0677CDF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69B1B18D-99C0-4187-97C2-3F9FC6CAADD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69B1B18D-99C0-4187-97C2-3F9FC6CAADD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69B1B18D-99C0-4187-97C2-3F9FC6CAADD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69B1B18D-99C0-4187-97C2-3F9FC6CAADD5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AEAEA188-9664-4060-AE20-59E76105D536}
+	EndGlobalSection
+EndGlobal
