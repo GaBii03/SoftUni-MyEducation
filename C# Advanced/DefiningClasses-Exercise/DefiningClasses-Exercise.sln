@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.DefineAClassPerson", "01.DefineAClassPerson\01.DefineAClassPerson.csproj", "{AEBB4F41-A58A-4288-9CFB-A41BF32CDFA7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.DateModifier", "02.DateModifier\02.DateModifier.csproj", "{5FDFF99B-8174-44DA-86BD-CBA7D786B602}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.SpeedRacing", "03.SpeedRacing\03.SpeedRacing.csproj", "{8D9A97BA-4C26-42D3-84B8-EB82012BF236}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.RawData", "04.RawData\04.RawData.csproj", "{D0CE79E0-7CD6-498E-8296-4F2676EC3871}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.CarSalesman", "05.CarSalesman\05.CarSalesman.csproj", "{9EE3C838-C2C7-4963-8E7E-2FE79D1EEE6C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.PokemonTrainer", "06.PokemonTrainer\06.PokemonTrainer.csproj", "{AE7CC93D-6C10-4F1F-BB40-6D1268F64D34}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.SoftUniParking", "07.SoftUniParking\07.SoftUniParking.csproj", "{A36629D2-5426-45C1-93CB-F31F8D05D26A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AEBB4F41-A58A-4288-9CFB-A41BF32CDFA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEBB4F41-A58A-4288-9CFB-A41BF32CDFA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEBB4F41-A58A-4288-9CFB-A41BF32CDFA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEBB4F41-A58A-4288-9CFB-A41BF32CDFA7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5FDFF99B-8174-44DA-86BD-CBA7D786B602}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FDFF99B-8174-44DA-86BD-CBA7D786B602}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FDFF99B-8174-44DA-86BD-CBA7D786B602}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FDFF99B-8174-44DA-86BD-CBA7D786B602}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D9A97BA-4C26-42D3-84B8-EB82012BF236}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D9A97BA-4C26-42D3-84B8-EB82012BF236}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D9A97BA-4C26-42D3-84B8-EB82012BF236}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D9A97BA-4C26-42D3-84B8-EB82012BF236}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0CE79E0-7CD6-498E-8296-4F2676EC3871}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0CE79E0-7CD6-498E-8296-4F2676EC3871}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0CE79E0-7CD6-498E-8296-4F2676EC3871}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0CE79E0-7CD6-498E-8296-4F2676EC3871}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9EE3C838-C2C7-4963-8E7E-2FE79D1EEE6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EE3C838-C2C7-4963-8E7E-2FE79D1EEE6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EE3C838-C2C7-4963-8E7E-2FE79D1EEE6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EE3C838-C2C7-4963-8E7E-2FE79D1EEE6C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE7CC93D-6C10-4F1F-BB40-6D1268F64D34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE7CC93D-6C10-4F1F-BB40-6D1268F64D34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE7CC93D-6C10-4F1F-BB40-6D1268F64D34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE7CC93D-6C10-4F1F-BB40-6D1268F64D34}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A36629D2-5426-45C1-93CB-F31F8D05D26A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A36629D2-5426-45C1-93CB-F31F8D05D26A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A36629D2-5426-45C1-93CB-F31F8D05D26A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A36629D2-5426-45C1-93CB-F31F8D05D26A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7C2C823D-F38E-4D27-9F3A-6ED34537B2AF}
+	EndGlobalSection
+EndGlobal
